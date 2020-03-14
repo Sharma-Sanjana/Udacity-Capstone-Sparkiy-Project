@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project is the final project to be submitted as a part of the Udacity Data Scientist Nanodegree program. I am predicting customer churn for Sparkify using Pyspark in this project.
+This  is the final project to be submitted as a part of the Udacity Data Scientist Nanodegree program. I am predicting customer churn for Sparkify using Pyspark here.
 
 ### Content
 _Sparkify.ipynb_ includes the preprocessing, feature engineering and modelling.
@@ -17,8 +17,7 @@ Datetime <br>
 
 ### Results
 
-I built 9 features to train the model.
-The 9 features built are as follows:
+I built 9 features to train the model which are as follows:
   - total_songs             
   - total_thumbs_up         
   - total_thumbs_down       
