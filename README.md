@@ -34,4 +34,4 @@ I used two models to predict customers churn :
 
 Finally, selecting Random Forest for customer churn prediction. The RF model had an 80% accuracy with 0.826 F1 score. Also, investigating feature importance- Lifetime of the customer looks to be an important determinent in the data.
 
-For a more detailed analysis, please check this blog post link.
+For a more detailed analysis, please check this blog post [link](https://medium.com/@sanjanasharma/predicting-customer-churn-with-pyspark-6fcada412d67).
