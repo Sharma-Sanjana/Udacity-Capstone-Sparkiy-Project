@@ -5,7 +5,7 @@
 This project is the final project to be submitted as a part of the Udacity Data Scientist Nanodegree program. I am predicting customer churn for Sparkify using Pyspark in this project.
 
 ### Content
-Sparkify.ipynb includes the preprocessing, feature engineering and modelling.
+_Sparkify.ipynb_ includes the preprocessing, feature engineering and modelling.
 
 ### Packages Used
 Numpy <br>
